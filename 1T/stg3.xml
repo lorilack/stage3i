@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<racine>
+  <titre1>stage3i</titre1>
+  <p/>
+  <lien idref="https://learn.getgrav.org/content/markdown">manuel sur le markdown</lien>
+  <p/>
+  <titre2>première présentation</titre2>
+  <p/>
+  <p>Il existe plusieur façon de coder. Elles sont toutes plus ou moins différentes.</p>
+  <p/>
+  <p>J'ai vu quatre façons diférentes de coder:</p>
+  <p/>
+  <puce>le "basic";</puce>
+  <puce>le "java";</puce>
+  <puce>le "ruby":</puce>
+  <puce>et le "XSL".</puce>
+  <p/>
+  <p>Il y a plusieurs sites qui permette de coder (par exemple Github : c'est git + hub). Pour suivre les travaux on utilise un outil de ticketing (jira). On utilise aussi le mail et la messagerie instantanée.</p>
+  <p/>
+  <p>Il est possible qu'un programme marche sur un serveur mais pas sur un autre. (cf <lien idref="https://fr.wikipedia.org/wiki/Git">wikipedia</lien>)</p>
+</racine>
